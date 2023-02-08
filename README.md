@@ -1,5 +1,16 @@
 ## SystemCTools
 
+**FPKTool**
+
+Extract `*.fpk` archive
+
+`FPKTool.exe -e <input.fpk> <output folder>`
+
+Repack folder content to `*.fpk` archive
+
+`FPKTool.exe -p <input folder> <output.fpk>`
+
+
 **KGTool**
 
 For convert `*.kg` to `*.png`
@@ -22,6 +33,4 @@ For convert `*.png`  to `*.kg`
 In progress
 
 
-**FPKTool**
 
-In progress
