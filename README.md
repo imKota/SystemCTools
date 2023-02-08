@@ -15,11 +15,11 @@ Repack folder content to `*.fpk` archive
 
 For convert `*.kg` to `*.png`
 
-`KGTool.exe -d input.kg output.png`
+`KGTool.exe -d <input.kg> <output.png>`
 
 For convert `*.png`  to `*.kg`
 
-`KGTool.exe -e input.png output.kg`
+`KGTool.exe -e <input.png> <output.kg>`
 
 
 ##### To batch convert:
