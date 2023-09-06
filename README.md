@@ -21,7 +21,6 @@ For convert `*.png`  to `*.kg`
 
 `KGTool.exe -e <input.png> <output.kg>`
 
-
 ##### To batch convert:
 
 1. Place `*.kg` files to folder `1.img_kg` and run `1.kg2png.bat`.
